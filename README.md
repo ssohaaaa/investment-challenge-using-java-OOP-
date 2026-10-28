@@ -55,4 +55,18 @@ Make smart investment decisions, manage your money, and build the highest total 
 
 Academic project developed to practise Java programming and Object-Oriented Programming concepts.
 
+## Screenshots
+
+![Screenshot 1](Screenshot%202026-10-28%20181546.png)![Screenshot 2](Screenshot%202026-10-28%20181557.png)
+
+![Screenshot 3](Screenshot%202026-10-28%20181623.png)
+
+![Screenshot 4](Screenshot%202026-10-28%20181629.png)
+
+![Screenshot 5](Screenshot%202026-10-28%20181716.png)
+
+![Screenshot 6](Screenshot%202026-10-28%20181724.png)
+
+![Screenshot 7](Screenshot%202026-10-28%20183644.png)
+
 
